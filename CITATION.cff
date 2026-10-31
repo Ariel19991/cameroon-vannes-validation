@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its published results, please cite this release."
+title: "Station-Centred Residual-Condensation Method for Pointwise Terrain Corrections"
+type: software
+version: 1.0.0
+date-released: 2026-10-31
+authors:
+  - family-names: "Bounou Guimking"
+    given-names: Ariel
+    orcid: "https://orcid.org/0009-0003-1847-2436"
+    affiliation: "Faculty of Physics and Technology, Novosibirsk State Technical University"
+repository-code: "https://github.com/Ariel19991/cameroon-vannes-validation"
+url: "https://github.com/Ariel19991/cameroon-vannes-validation"
+license: MIT
+keywords:
+  - terrain correction
+  - gravity
+  - geophysics
+  - Vannes method
+  - Nagy prism
+  - Cameroon
+

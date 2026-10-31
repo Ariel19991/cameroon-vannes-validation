@@ -1,0 +1,14 @@
+{
+  "station_count": 1991,
+  "grid_shape": [
+    200,
+    200
+  ],
+  "grid_node_count": 40000,
+  "grid_policy": "Every third node of 598x598 Surfer grid; negative heights clipped to zero for every method",
+  "domain_policy": "Complete rectangular legacy grid for every station; no radial truncation",
+  "density_kg_m3": 2670.0,
+  "near_field_radius_km": 5.0,
+  "quadrature_order": 4,
+  "important_limitation": "Controlled common-grid comparison, not the final hybrid-FABDEM 200 km production run"
+}
